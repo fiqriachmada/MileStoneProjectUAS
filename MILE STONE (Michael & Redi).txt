@@ -1,0 +1,9 @@
+1. Michael Araona W. 06.2018.1.07072
+2. Redi Nurdin W. 06.2018.1.07060
+
+Project Mile Stone
+
+Saya menggunakan Intelij IDEA dan GUI nya manual semua.
+
+Untuk memilih event bisa klik langsung ke data row di tabel nya
+Saya menggunakan akun githubnya teman saya
